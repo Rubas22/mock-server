@@ -1,0 +1,9 @@
+{
+  data:{
+    vnms_account_information:{
+      name:"NAME",
+      address:"ADDRESS",
+      logo_url:"vnms-accounts/aa2d0198-c964-4377-8d38-abe3a264bc6d/profiles/account/logo/logo"
+    }
+  }
+}
